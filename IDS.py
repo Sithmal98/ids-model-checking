@@ -9,13 +9,13 @@ IFC_FILE = "CustomTestModel-BIM-Datastructure-Exercise.ifc"
 
 BROKEN_IDS_FILE = "BIM-Data-Structure-IDS-Exercise-Group 2.ids"
 
-CREATED_IDS_FILE = "01_Group2_Created_IDS.ids"
+CREATED_IDS_FILE = "01_Created_IDS.ids"
 
-VALIDATION_TXT = "02_Group2_Validation_Report.txt"
-VALIDATION_JSON = "02_Group2_Validation_Report.json"
+VALIDATION_TXT = "02_Validation_Report.txt"
+VALIDATION_JSON = "02_Validation_Report.json"
 
-CORRECTED_IDS_FILE = "03_Group2_Corrected_IDS.ids"
-CORRECTION_NOTES = "03_Group2_Correction_Notes.txt"
+CORRECTED_IDS_FILE = "03_Corrected_IDS.ids"
+CORRECTION_NOTES = "03_Correction_Notes.txt"
 
 def create_ids():
 
